@@ -13,7 +13,13 @@
         "carousel": "done",
         "guide": "done",
         "reel": "done",
-        "telegram": "done"
+        "telegram": "done",
+        "chatplace": "done"
+      },
+      "chatplace": {
+        "automationId": "01a0cb25-9259-7270-b88a-7088245efba8",
+        "commentRuleId": "01a0cb37-cffa-738c-b80c-d92e22081f07",
+        "triggers": ["Message contains", "Comment contains"]
       }
     },
     {
@@ -29,7 +35,13 @@
         "carousel": "done",
         "guide": "done",
         "reel": "done",
-        "telegram": "done"
+        "telegram": "done",
+        "chatplace": "done"
+      },
+      "chatplace": {
+        "automationId": "01a0cb29-14aa-73f5-8aba-4704777f1e3e",
+        "commentRuleId": "01a0cb38-102c-73a2-99dc-a57c31cac00f",
+        "triggers": ["Message contains", "Comment contains"]
       }
     },
     {
@@ -41,11 +53,17 @@
       "author": "Андрей Зубков · @andrei_pro_zdorovie",
       "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/mito-stress-cortisol",
       "status": {
-        "theme": "in_progress",
-        "carousel": "pending",
-        "guide": "pending",
-        "reel": "pending",
-        "telegram": "pending"
+        "theme": "done",
+        "carousel": "done",
+        "guide": "done",
+        "reel": "done",
+        "telegram": "done",
+        "chatplace": "done"
+      },
+      "chatplace": {
+        "automationId": "01a0cb29-2a45-734e-9008-6073dd963be1",
+        "commentRuleId": "01a0cb38-18b0-7380-a380-2e44e655778c",
+        "triggers": ["Message contains", "Comment contains"]
       }
     }
   ]
