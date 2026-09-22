@@ -1,0 +1,54 @@
+{
+  "slug": "mito-cold-breathing",
+  "title": "Как разогнать митохондрии холодом и дыханием",
+  "keyword": "ХОЛОД",
+  "brand": "Андрей Зубков · @andrei_pro_zdorovie",
+  "facePhoto": "workspace/assets/photos/author/author.jpg",
+  "faceDescription": "athletic energetic man ~35-40, short brown crew cut hair, confident focused calm look, sportive healthy build",
+  "outDir": "workspace/carousel/mito-cold-breathing/format2",
+  "slides": [
+    {
+      "n": 1,
+      "name": "cover",
+      "face": true,
+      "headline": "Как разогнать митохондрии холодом и дыханием",
+      "badge": "ЛИСТАЙ →",
+      "prompt": "Instagram carousel slide 1/6 (COVER), 1080x1350 px, vertical 4:5. Premium editorial dark theme, pure jet black background with warm bronze-orange accents (#F5A623). Huge bold Russian Cyrillic typography: \"Как разогнать митохондрии холодом и дыханием\". Include an interactive rounded button pill badge saying \"ЛИСТАЙ →\". Include the real author face (athletic energetic man ~35-40, short brown crew cut hair, confident focused calm look, sportive healthy build) seamlessly integrated on the right. At bottom right corner small neat text \"Андрей Зубков · @andrei_pro_zdorovie\". Clean, high resolution, no clutter."
+    },
+    {
+      "n": 2,
+      "name": "problem",
+      "face": false,
+      "headline": "В чем главная ошибка?",
+      "prompt": "Instagram carousel slide 2/6, 1080x1350 px, vertical 4:5. Premium minimalist dark background. Huge punchy Russian text: \"90% ДЕЛАЮТ НЕ ТАК\". A clean graphical comparison card or infographic element showing standard mistake vs effective method. Editorial layout, crisp Russian Cyrillic lettering, signature bottom footer: \"Андрей Зубков · @andrei_pro_zdorovie\"."
+    },
+    {
+      "n": 3,
+      "name": "insight1",
+      "face": false,
+      "headline": "Шаг 1: Автоматизация",
+      "prompt": "Instagram carousel slide 3/6, 1080x1350 px, vertical 4:5. Jet black background with glowing orange node graph accent. Russian title: \"1. ВЫСТРОЙ КОНВЕЙЕР\". Bullet card explaining the core process. High contrast, elegant typography, perfectly readable Cyrillic, footer \"Андрей Зубков · @andrei_pro_zdorovie\"."
+    },
+    {
+      "n": 4,
+      "name": "insight2",
+      "face": false,
+      "headline": "Шаг 2: Системный результат",
+      "prompt": "Instagram carousel slide 4/6, 1080x1350 px, vertical 4:5. Clean UI card style. Bold Russian text: \"2. ДЕЛЕГИРУЙ АГЕНТАМ\". Diagram showing hours saved per week (from 20h down to 30min). Modern typography, footer \"Андрей Зубков · @andrei_pro_zdorovie\"."
+    },
+    {
+      "n": 5,
+      "name": "direct-mockup",
+      "face": false,
+      "headline": "Забирай разбор",
+      "prompt": "Instagram carousel slide 5/6, 1080x1350 px, vertical 4:5. Realistic 3D smartphone mockup showing an Instagram Direct message chat. User sent: \"ХОЛОД\", Bot instantly replies with a card: \"Держи пошаговый гайд 🚀\". High realism, clean interface, dark mode UI, footer \"Андрей Зубков · @andrei_pro_zdorovie\"."
+    },
+    {
+      "n": 6,
+      "name": "cta",
+      "face": true,
+      "headline": "Пиши «ХОЛОД» в комменты",
+      "prompt": "Instagram carousel slide 6/6 (FINAL CTA), 1080x1350 px, vertical 4:5. Dark aesthetic with author portrait (athletic energetic man ~35-40, short brown crew cut hair, confident focused calm look, sportive healthy build). Massive call-to-action text: \"ПИШИ «ХОЛОД» В КОММЕНТАРИИ\". Arrow pointing down to comments. Bottom branding: \"Андрей Зубков · @andrei_pro_zdorovie\". High impact visual."
+    }
+  ]
+}

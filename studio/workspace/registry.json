@@ -15,6 +15,22 @@
         "reel": "done",
         "telegram": "done"
       }
+    },
+    {
+      "slug": "mito-cold-breathing",
+      "keyword": "ХОЛОД",
+      "title": "Как разогнать митохондрии холодом и дыханием: протокол гормезиса для деления клеток",
+      "source": "https://www.instagram.com/andrei_pro_zdorovie/",
+      "date": "2026-09-22",
+      "author": "Андрей Зубков · @andrei_pro_zdorovie",
+      "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/mito-cold-breathing",
+      "status": {
+        "theme": "in_progress",
+        "carousel": "pending",
+        "guide": "pending",
+        "reel": "pending",
+        "telegram": "pending"
+      }
     }
   ]
 }

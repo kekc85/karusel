@@ -20,6 +20,16 @@ export const guides: Guide[] = [
     tag: "биохакинг",
     keyword: "ПРОТОКОЛ",
   },
+  {
+    slug: "mito-cold-breathing",
+    title: "Как разогнать митохондрии холодом и дыханием",
+    excerpt:
+      "Практический протокол гормезиса: активация бурого жира, экспрессия белка PGC-1α и гипоксические задержки для деления новых энергостанций.",
+    date: "2026-09-22",
+    readMin: 6,
+    tag: "биогенез",
+    keyword: "ХОЛОД",
+  },
 ];
 
 export const getGuide = (slug: string) => guides.find((g) => g.slug === slug);
