@@ -2,9 +2,10 @@
   "brand": "Андрей Зубков",
   "tagline": "Mito Longevity: сохранение здоровья и энергии",
   "description": "Практические протоколы биохакинга, клеточного долголетия и глубокого восстановления от Андрея Зубкова.",
-  "handle": "@andrey_pro_zdorovie",
-  "instagram": "https://instagram.com/andrey_pro_zdorovie",
+  "handle": "@andrei_pro_zdorovie",
+  "instagram": "https://instagram.com/andrei_pro_zdorovie",
   "telegram": "https://t.me/andrey_pro_zdorovie",
+  "vk": "https://vk.com/",
   "domain": "site-sepia-nu-74.vercel.app",
   "accentNote": "Акцентный цвет и палитра — tailwind.config.ts"
 }
