@@ -25,6 +25,22 @@
       "author": "Андрей Зубков · @andrei_pro_zdorovie",
       "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/mito-cold-breathing",
       "status": {
+        "theme": "done",
+        "carousel": "done",
+        "guide": "done",
+        "reel": "done",
+        "telegram": "done"
+      }
+    },
+    {
+      "slug": "mito-stress-cortisol",
+      "keyword": "БАЛАНС",
+      "title": "Антистресс-протокол: как снизить кортизол и спасти митохондрии от выгорания",
+      "source": "https://www.instagram.com/andrei_pro_zdorovie/",
+      "date": "2026-09-22",
+      "author": "Андрей Зубков · @andrei_pro_zdorovie",
+      "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/mito-stress-cortisol",
+      "status": {
         "theme": "in_progress",
         "carousel": "pending",
         "guide": "pending",

@@ -30,6 +30,16 @@ export const guides: Guide[] = [
     tag: "биогенез",
     keyword: "ХОЛОД",
   },
+  {
+    slug: "mito-stress-cortisol",
+    title: "Антистресс-протокол: как снизить кортизол и защитить митохондрии",
+    excerpt:
+      "Как хронический стресс разрушает клеточные энергостанции, почему падает АТФ и как перезагрузить блуждающий нерв за 5 минут.",
+    date: "2026-09-22",
+    readMin: 6,
+    tag: "антистресс",
+    keyword: "БАЛАНС",
+  },
 ];
 
 export const getGuide = (slug: string) => guides.find((g) => g.slug === slug);
