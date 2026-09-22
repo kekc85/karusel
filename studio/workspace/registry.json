@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "slug": "mito-sleep-protocol",
+      "keyword": "ПРОТОКОЛ",
+      "title": "Протокол сна и восстановления: как митохондрии восстанавливаются на 40% быстрее",
+      "source": "https://www.instagram.com/p/DdUAarfunpq/",
+      "date": "2026-09-22",
+      "author": "Андрей Зубков · @andrey_pro_zdorovie",
+      "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/mito-sleep-protocol",
+      "status": {
+        "theme": "done",
+        "carousel": "done",
+        "guide": "done",
+        "reel": "done",
+        "telegram": "done"
+      }
+    }
+  ]
+}

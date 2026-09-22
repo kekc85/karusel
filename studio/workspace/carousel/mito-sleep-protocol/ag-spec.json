@@ -1,0 +1,59 @@
+{
+  "slug": "mito-sleep-protocol",
+  "title": "Спишь 8 часов, но нет энергии? Перезапусти митохондрии",
+  "keyword": "ПРОТОКОЛ",
+  "brand": "Андрей Про Здоровье · @andrey_pro_zdorovie",
+  "facePhoto": "workspace/assets/photos/author/author.jpg",
+  "faceDescription": "athletic energetic healthy man ~35-40, clear skin, confident warm smile, vital look",
+  "outDir": "workspace/carousel/mito-sleep-protocol/format2",
+  "slides": [
+    {
+      "n": 1,
+      "name": "cover",
+      "face": true,
+      "headline": "Спишь 8 часов, но нет энергии? Перезапусти митохондрии",
+      "badge": "ЛИСТАЙ →",
+      "prompt": "Instagram carousel slide 1/6 (COVER), 1080x1350 px, vertical 4:5. Premium editorial dark theme, pure jet black background with warm glowing bronze-orange mitochondrial cell energy accents (#F5A623). Huge bold Russian Cyrillic typography: \"Спишь 8 часов, но нет энергии? Перезапусти митохондрии\". Include an interactive rounded button pill badge saying \"ЛИСТАЙ →\". Include athletic energetic healthy man ~35-40, clear skin, confident warm smile, vital look. Bottom signature: \"Андрей Про Здоровье · @andrey_pro_zdorovie\". Ultra crisp typography, high resolution graphic design."
+    },
+    {
+      "n": 2,
+      "name": "problem",
+      "face": false,
+      "headline": "Почему усталость накапливается?",
+      "badge": "ФАКТ",
+      "prompt": "Instagram carousel slide 2/6, 1080x1350 px, vertical 4:5. Minimalist dark luxury background. Huge punchy Russian text: \"ДЕЛО НЕ В КОЛИЧЕСТВЕ ЧАСОВ, А В МИТОХОНДРИЯХ\". A sleek infographic element showing cellular energy production: damaged mitochondria vs restored mitochondria. High contrast, warm amber accents, footer \"Андрей Про Здоровье · @andrey_pro_zdorovie\"."
+    },
+    {
+      "n": 3,
+      "name": "step1",
+      "face": false,
+      "headline": "Шаг 1: Температурный триггер",
+      "badge": "ШАГ 1",
+      "prompt": "Instagram carousel slide 3/6, 1080x1350 px, vertical 4:5. Jet black background with stylized temperature icon and glowing cell diagram. Bold Russian title: \"1. СНИЗЬ ТЕМПЕРАТУРУ НА 1.5°C\". Card text: \"Фаза глубокого сна и митофагия (очистка клеток) включаются только при охлаждении тела\". Sharp Cyrillic text, bronze-orange accents, footer \"Андрей Про Здоровье · @andrey_pro_zdorovie\"."
+    },
+    {
+      "n": 4,
+      "name": "step2",
+      "face": false,
+      "headline": "Шаг 2: Блокировка синего света",
+      "badge": "ШАГ 2",
+      "prompt": "Instagram carousel slide 4/6, 1080x1350 px, vertical 4:5. Editorial layout showing night circadian cycle. Bold Russian text: \"2. ВЕЧЕРНИЙ СВЕТОВОЙ ДЕТОКС\". Card note: \"Мелатонин — главный антиоксидант для митохондрий. Экран за 60 мин до сна разрушает его пик\". Crisp layout, footer \"Андрей Про Здоровье · @andrey_pro_zdorovie\"."
+    },
+    {
+      "n": 5,
+      "name": "direct-mockup",
+      "face": false,
+      "headline": "Забирай полный протокол",
+      "badge": "ЛИД-МАГНИТ",
+      "prompt": "Instagram carousel slide 5/6, 1080x1350 px, vertical 4:5. Realistic 3D smartphone mockup showing an Instagram Direct message. User sent: \"ПРОТОКОЛ\", Bot instantly replies with an elegant PDF card: \"Чек-лист: 4 вечерние привычки для мито-энергии\". Modern dark mode interface, footer \"Андрей Про Здоровье · @andrey_pro_zdorovie\"."
+    },
+    {
+      "n": 6,
+      "name": "cta",
+      "face": true,
+      "headline": "Пиши «ПРОТОКОЛ» в комментарии",
+      "badge": "ПРИЗЫВ",
+      "prompt": "Instagram carousel slide 6/6 (FINAL CTA), 1080x1350 px, vertical 4:5. Dark energetic aesthetic with athletic healthy author portrait. Massive call-to-action text: \"НАПИШИ «ПРОТОКОЛ» В КОММЕНТАРИЯХ\". Bold glowing arrow pointing down. Bottom branding: \"Андрей Про Здоровье · @andrey_pro_zdorovie\". High impact, premium look."
+    }
+  ]
+}
