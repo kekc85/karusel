@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { GuideHero, Figure, Callout, Sources, KeywordCTA, BackToGuides } from "@/components/Guide";
+import { GuideHero, Figure, Callout, Sources, SchoolCTA, BackToGuides } from "@/components/Guide";
 import { getGuide } from "@/lib/guides";
 
 const g = getGuide("mito-sleep-protocol")!;
@@ -90,10 +90,11 @@ export default function Page() {
         </Callout>
       </article>
 
-      <KeywordCTA
-        keyword="ПРОТОКОЛ"
-        text="Напишите кодовое слово ПРОТОКОЛ мне в директ Instagram, чтобы забрать PDF-чеклист и получить персональное приглашение в закрытые сообщества Школы Долголетия в Telegram и ВКонтакте."
-        href="https://instagram.com/andrei_pro_zdorovie"
+      <SchoolCTA
+        title="Переходите к системному долголетию в Школе Долголетия"
+        description="Глубокий сон — это первый шаг. Чтобы выстроить комплексную систему клеточного восстановления, циркадных ритмов и митохондриального омоложения, присоединяйтесь к Школе Долголетия Андрея Зубкова."
+        telegramHref="https://t.me/andrey_pro_zdorovie"
+        vkHref="https://vk.com/"
       />
 
       <Sources

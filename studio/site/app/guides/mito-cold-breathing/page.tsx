@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
-import { GuideHero, Figure, Callout, Sources, KeywordCTA, BackToGuides } from "@/components/Guide";
+import { GuideHero, Figure, Callout, Sources, SchoolCTA, BackToGuides } from "@/components/Guide";
 import { getGuide } from "@/lib/guides";
 
 const g = getGuide("mito-cold-breathing")!;
@@ -92,10 +92,11 @@ export default function Page() {
         </Callout>
       </article>
 
-      <KeywordCTA
-        keyword="ХОЛОД"
-        text="Напишите кодовое слово ХОЛОД мне в директ Instagram @andrei_pro_zdorovie, чтобы получить чек-лист протокола в PDF и персональный доступ в закрытые сообщества Школы Долголетия в Telegram и ВКонтакте."
-        href="https://instagram.com/andrei_pro_zdorovie"
+      <SchoolCTA
+        title="Переходите на следующий уровень в Школе Долголетия"
+        description="Вы изучили базовый протокол холода и дыхания. Чтобы внедрить системный биохакинг, пройти диагностику митохондриального пула и получать клинические протоколы от Андрея Зубкова — присоединяйтесь к нашему закрытому сообществу."
+        telegramHref="https://t.me/andrey_pro_zdorovie"
+        vkHref="https://vk.com/"
       />
 
       <Sources
