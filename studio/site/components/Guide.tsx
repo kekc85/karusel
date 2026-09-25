@@ -120,10 +120,10 @@ export function KeywordCTA({ keyword, text, href }: { keyword: string; text: str
   );
 }
 
-// Прямой мост в закрытые сообщества Школы Долголетия (Telegram + ВКонтакте)
+// Мост к открытым видеоурокам Школы долголетия «Люди без возраста»
 export function SchoolCTA({
-  title = "Вступить в закрытую Школу Долголетия",
-  description = "Присоединяйтесь к сообществу людей без возраста: практические протоколы, клинические разборы анализов и поддержка экспертов.",
+  title = "Посмотрите открытые видеоуроки Школы Долголетия",
+  description = "В своих материалах я делюсь базовыми привычками, но комплексную систему MITO Longevity рекомендую посмотреть в видеоуроках школы «Люди без возраста». В уроках спикер школы Сергей и ведущие эксперты превентивной медицины (доктор А.Ф. Тарасевич, 37 лет стажа) пошагово показывают, как перезапустить митохондрии, наладить питание клеток всего от 148 руб/день и чувствовать себя в 40+ энергичнее, чем в 25.",
   telegramHref = "https://t.me/andrey_pro_zdorovie",
   vkHref = "https://vk.com/",
 }: {
@@ -136,7 +136,7 @@ export function SchoolCTA({
     <section className="max-w-prose mx-auto px-5 my-14">
       <div className="rounded-2xl bg-clay text-paper p-8 shadow-sm">
         <div className="flex items-center gap-2 font-mono text-[12px] uppercase tracking-wider text-terra mb-2">
-          Школа Долголетия Андрея Зубкова
+          Онлайн-школа «Люди без возраста»
         </div>
         <h3 className="font-serif text-[26px] md:text-[30px] font-bold leading-snug mb-3">
           {title}
@@ -151,7 +151,7 @@ export function SchoolCTA({
             rel="noopener"
             className="inline-flex items-center justify-center gap-2 bg-terra hover:bg-terra-hover text-white px-6 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors shadow-sm"
           >
-            Присоединиться в Telegram →
+            Смотреть видеоуроки в Telegram →
           </a>
           <a
             href={vkHref}
@@ -159,7 +159,7 @@ export function SchoolCTA({
             rel="noopener"
             className="inline-flex items-center justify-center gap-2 bg-paper/10 hover:bg-paper/20 text-paper border border-paper/20 px-6 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors"
           >
-            Группа ВКонтакте →
+            Сообщество ВКонтакте →
           </a>
         </div>
       </div>
