@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { GuideHero, Figure, Callout, Sources, SchoolCTA, BackToGuides } from "@/components/Guide";
+import { StressCortisolCalculator } from "@/components/interactive/StressCortisolCalculator";
 import { getGuide } from "@/lib/guides";
 
 const g = getGuide("mito-stress-cortisol")!;
@@ -73,6 +74,8 @@ export default function Page() {
             За 40 минут до сна — магний в форме <em>бисглицината</em> (300–400 мг элементного магния) в связке с <em>L-теанином</em> (150–200 мг). Глицин действует как тормозный нейромедиатор в стволе мозга, а теанин увеличивает альфа-ритмы расслабления.
           </li>
         </ol>
+
+        <StressCortisolCalculator />
 
         <h2>От ситуативного снятия стресса — к устойчивой адаптивности</h2>
         <p>

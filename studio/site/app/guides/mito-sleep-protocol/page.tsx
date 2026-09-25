@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { GuideHero, Figure, Callout, Sources, SchoolCTA, BackToGuides } from "@/components/Guide";
+import { SleepOptimizer } from "@/components/interactive/SleepOptimizer";
 import { getGuide } from "@/lib/guides";
 
 const g = getGuide("mito-sleep-protocol")!;
@@ -73,6 +74,9 @@ export default function Page() {
           alt="Температурный протокол сна"
           caption="Снижение температуры ядра тела — ключевой физиологический переключатель в фазу медленного сна"
         />
+
+        <SleepOptimizer />
+
         <h2>От протокола — к системному результату</h2>
         <p>
           Один вечерний протокол — это мощный первый шаг, который дает ощутимый прилив бодрости уже через 10–14 дней.

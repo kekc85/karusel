@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 import { GuideHero, Figure, Callout, Sources, SchoolCTA, BackToGuides } from "@/components/Guide";
+import { ColdBreathTrainer } from "@/components/interactive/ColdBreathTrainer";
 import { getGuide } from "@/lib/guides";
 
 const g = getGuide("mito-cold-breathing")!;
@@ -74,6 +75,8 @@ export default function Page() {
           <li><strong>Дни 5–9 (Погружение):</strong> 60 секунд холодного душа (акцент на шею, верхнюю часть спины и трапеции, где сосредоточен бурый жир). Ровное, спокойное дыхание животом без гипервентиляции.</li>
           <li><strong>Дни 10–14 (Связка холод + гипоксия):</strong> Утром натощак — 3 раунда дыхания по квадрату (вдох 4 сек — задержка 4 сек — выдох 4 сек — задержка 4 сек), затем финальная задержка на выдохе до первого комфортного позыва. После этого — контрастный душ.</li>
         </ol>
+
+        <ColdBreathTrainer />
 
         <h2>От базовых практик — к системному омоложению</h2>
         <p>
