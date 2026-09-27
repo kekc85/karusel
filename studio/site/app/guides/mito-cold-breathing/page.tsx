@@ -95,8 +95,9 @@ export default function Page() {
       <SchoolCTA
         title="Посмотрите видеоуроки школы «Люди без возраста»"
         description="Вы освоили технику холода и дыхания. Приглашаю посмотреть видеоматериалы школы, где спикер Сергей и врачи наглядно разбирают, как очистить клетки от токсинов и стимулировать рост молодых митохондрий."
-        telegramHref="https://t.me/andrey_pro_zdorovie"
-        vkHref="https://vk.com/"
+        telegramHref="https://t.me/+eyrfJdrBk1U0MTgy"
+        vkHref="https://vk.ru/club241756924"
+        maxHref="https://max.ru/join/jIKp3t4cGzsBTyhehCtFvvllf5HqM8vUig_QXMVQG0Q"
       />
 
       <Sources

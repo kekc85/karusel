@@ -124,13 +124,15 @@ export function KeywordCTA({ keyword, text, href }: { keyword: string; text: str
 export function SchoolCTA({
   title = "Посмотрите открытые видеоуроки Школы Долголетия",
   description = "В своих материалах я делюсь базовыми привычками, но комплексную систему MITO Longevity рекомендую посмотреть в видеоуроках школы «Люди без возраста». В уроках спикер школы Сергей и ведущие эксперты превентивной медицины (доктор А.Ф. Тарасевич, 37 лет стажа) пошагово показывают, как перезапустить митохондрии, наладить питание клеток всего от 148 руб/день и чувствовать себя в 40+ энергичнее, чем в 25.",
-  telegramHref = "https://t.me/andrey_pro_zdorovie",
-  vkHref = "https://vk.com/",
+  telegramHref = "https://t.me/+eyrfJdrBk1U0MTgy",
+  vkHref = "https://vk.ru/club241756924",
+  maxHref = "https://max.ru/join/jIKp3t4cGzsBTyhehCtFvvllf5HqM8vUig_QXMVQG0Q",
 }: {
   title?: string;
   description?: string;
   telegramHref?: string;
   vkHref?: string;
+  maxHref?: string;
 }) {
   return (
     <section className="max-w-prose mx-auto px-5 my-14">
@@ -144,22 +146,30 @@ export function SchoolCTA({
         <p className="font-body text-[16.5px] leading-relaxed text-paper/80 mb-7">
           {description}
         </p>
-        <div className="flex flex-wrap gap-4">
+        <div className="flex flex-wrap gap-3.5">
           <a
             href={telegramHref}
             target="_blank"
             rel="noopener"
-            className="inline-flex items-center justify-center gap-2 bg-terra hover:bg-terra-hover text-white px-6 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors shadow-sm"
+            className="inline-flex items-center justify-center gap-2 bg-terra hover:bg-terra-hover text-white px-5 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors shadow-sm"
           >
-            Смотреть видеоуроки в Telegram →
+            Telegram →
           </a>
           <a
             href={vkHref}
             target="_blank"
             rel="noopener"
-            className="inline-flex items-center justify-center gap-2 bg-paper/10 hover:bg-paper/20 text-paper border border-paper/20 px-6 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors"
+            className="inline-flex items-center justify-center gap-2 bg-paper/10 hover:bg-paper/20 text-paper border border-paper/20 px-5 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors"
           >
-            Сообщество ВКонтакте →
+            ВКонтакте →
+          </a>
+          <a
+            href={maxHref}
+            target="_blank"
+            rel="noopener"
+            className="inline-flex items-center justify-center gap-2 bg-paper hover:bg-paper/90 text-clay px-5 py-3.5 rounded-xl font-sans text-[14px] font-semibold transition-colors shadow-sm"
+          >
+            Платформа MAX →
           </a>
         </div>
       </div>

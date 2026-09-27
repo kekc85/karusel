@@ -94,9 +94,10 @@ export default function Page() {
 
       <SchoolCTA
         title="Познакомьтесь с системой долголетия в школе «Люди без возраста»"
-        description="Глубокий сон запускает ночную митофагию. Чтобы сложить все элементы омоложения в единую простую систему, переходите к просмотру открытых видеоуроков школы в Telegram или ВКонтакте."
-        telegramHref="https://t.me/andrey_pro_zdorovie"
-        vkHref="https://vk.com/"
+        description="Глубокий сон запускает ночную митофагию. Чтобы сложить все элементы омоложения в единую простую систему, переходите к просмотру открытых видеоуроков школы на удобной платформе."
+        telegramHref="https://t.me/+eyrfJdrBk1U0MTgy"
+        vkHref="https://vk.ru/club241756924"
+        maxHref="https://max.ru/join/jIKp3t4cGzsBTyhehCtFvvllf5HqM8vUig_QXMVQG0Q"
       />
 
       <Sources

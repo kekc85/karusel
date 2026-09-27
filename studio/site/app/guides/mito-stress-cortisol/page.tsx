@@ -87,8 +87,9 @@ export default function Page() {
       <SchoolCTA
         title="Изучите комплексный антистресс в школе «Люди без возраста»"
         description="Вечерние техники снимают острый стресс. А в открытых уроках школы долголетия «Люди без возраста» показано, как выстроить глубокую защиту надпочечников: от питания нейронов (комплекс IQ-Cord) до гормонального баланса 30+ и восстановления биоритмов без лекарств и самолечения."
-        telegramHref="https://t.me/andrey_pro_zdorovie"
-        vkHref="https://vk.com/"
+        telegramHref="https://t.me/+eyrfJdrBk1U0MTgy"
+        vkHref="https://vk.ru/club241756924"
+        maxHref="https://max.ru/join/jIKp3t4cGzsBTyhehCtFvvllf5HqM8vUig_QXMVQG0Q"
       />
 
       <Sources
