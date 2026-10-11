@@ -65,6 +65,24 @@
         "commentRuleId": "01a0cb38-18b0-7380-a380-2e44e655778c",
         "triggers": ["Message contains", "Comment contains"]
       }
+    },
+    {
+      "slug": "morning-dopamine-coffee",
+      "keyword": "ЭНЕРГИЯ",
+      "title": "Утренний дофамин и кофе: почему ты разбитый в 14:00 и как перезагрузить рецепторы",
+      "source": "https://www.instagram.com/andrei_pro_zdorovie/",
+      "date": "2026-10-12",
+      "author": "Андрей Зубков · @andrei_pro_zdorovie",
+      "guideUrl": "https://site-sepia-nu-74.vercel.app/guides/morning-dopamine-coffee",
+      "status": {
+        "theme": "in_progress",
+        "carousel": "pending",
+        "guide": "pending",
+        "reel": "pending",
+        "threads": "pending",
+        "telegram": "pending",
+        "chatplace": "pending"
+      }
     }
   ]
 }

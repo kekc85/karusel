@@ -40,6 +40,16 @@ export const guides: Guide[] = [
     tag: "антистресс",
     keyword: "БАЛАНС",
   },
+  {
+    slug: "morning-dopamine-coffee",
+    title: "Утренний дофамин и кофе: как не быть разбитым в 14:00",
+    excerpt:
+      "Биохимия аденозина и кортизола: почему чашка кофе сразу после пробуждения крадет дневную энергию и как перезагрузить рецепторы.",
+    date: "2026-10-12",
+    readMin: 5,
+    tag: "дофамин",
+    keyword: "ЭНЕРГИЯ",
+  },
 ];
 
 export const getGuide = (slug: string) => guides.find((g) => g.slug === slug);
